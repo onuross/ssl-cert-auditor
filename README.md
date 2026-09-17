@@ -73,4 +73,4 @@ Run the script against a provided list of hosts (see `example_hosts.txt` for ref
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE] file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
