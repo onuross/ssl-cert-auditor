@@ -1,0 +1,11 @@
+www.google.com
+www.htw-dresden.de
+8.8.8.8
+
+expired.badssl.com
+wrong.host.badssl.com
+self-signed.badssl.com
+neverssl.com
+192.0.2.1
+olmayan-bir-domain-adresi-12345.com
+example.com
